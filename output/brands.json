@@ -1,0 +1,884 @@
+[
+  {
+    "brand_id": "59",
+    "name": "Acer113 devices",
+    "slug": "acer",
+    "url": "https://www.gsmarena.com/acer-phones-59.php",
+    "device_count": 113
+  },
+  {
+    "brand_id": "5",
+    "name": "alcatel414 devices",
+    "slug": "alcatel",
+    "url": "https://www.gsmarena.com/alcatel-phones-5.php",
+    "device_count": 414
+  },
+  {
+    "brand_id": "88",
+    "name": "Allview157 devices",
+    "slug": "allview",
+    "url": "https://www.gsmarena.com/allview-phones-88.php",
+    "device_count": 157
+  },
+  {
+    "brand_id": "76",
+    "name": "Amazon25 devices",
+    "slug": "amazon",
+    "url": "https://www.gsmarena.com/amazon-phones-76.php",
+    "device_count": 25
+  },
+  {
+    "brand_id": "28",
+    "name": "Amoi47 devices",
+    "slug": "amoi",
+    "url": "https://www.gsmarena.com/amoi-phones-28.php",
+    "device_count": 47
+  },
+  {
+    "brand_id": "48",
+    "name": "Apple147 devices",
+    "slug": "apple",
+    "url": "https://www.gsmarena.com/apple-phones-48.php",
+    "device_count": 147
+  },
+  {
+    "brand_id": "90",
+    "name": "Archos43 devices",
+    "slug": "archos",
+    "url": "https://www.gsmarena.com/archos-phones-90.php",
+    "device_count": 43
+  },
+  {
+    "brand_id": "46",
+    "name": "Asus207 devices",
+    "slug": "asus",
+    "url": "https://www.gsmarena.com/asus-phones-46.php",
+    "device_count": 207
+  },
+  {
+    "brand_id": "57",
+    "name": "AT&T4 devices",
+    "slug": "at&t",
+    "url": "https://www.gsmarena.com/at&t-phones-57.php",
+    "device_count": 4
+  },
+  {
+    "brand_id": "15",
+    "name": "Benefon9 devices",
+    "slug": "benefon",
+    "url": "https://www.gsmarena.com/benefon-phones-15.php",
+    "device_count": 9
+  },
+  {
+    "brand_id": "31",
+    "name": "BenQ35 devices",
+    "slug": "benq",
+    "url": "https://www.gsmarena.com/benq-phones-31.php",
+    "device_count": 35
+  },
+  {
+    "brand_id": "42",
+    "name": "BenQ-Siemens28 devices",
+    "slug": "benq-siemens",
+    "url": "https://www.gsmarena.com/benq_siemens-phones-42.php",
+    "device_count": 28
+  },
+  {
+    "brand_id": "34",
+    "name": "Bird61 devices",
+    "slug": "bird",
+    "url": "https://www.gsmarena.com/bird-phones-34.php",
+    "device_count": 61
+  },
+  {
+    "brand_id": "36",
+    "name": "BlackBerry92 devices",
+    "slug": "blackberry",
+    "url": "https://www.gsmarena.com/blackberry-phones-36.php",
+    "device_count": 92
+  },
+  {
+    "brand_id": "116",
+    "name": "Blackview113 devices",
+    "slug": "blackview",
+    "url": "https://www.gsmarena.com/blackview-phones-116.php",
+    "device_count": 113
+  },
+  {
+    "brand_id": "67",
+    "name": "BLU369 devices",
+    "slug": "blu",
+    "url": "https://www.gsmarena.com/blu-phones-67.php",
+    "device_count": 369
+  },
+  {
+    "brand_id": "10",
+    "name": "Bosch10 devices",
+    "slug": "bosch",
+    "url": "https://www.gsmarena.com/bosch-phones-10.php",
+    "device_count": 10
+  },
+  {
+    "brand_id": "108",
+    "name": "BQ20 devices",
+    "slug": "bq",
+    "url": "https://www.gsmarena.com/bq-phones-108.php",
+    "device_count": 20
+  },
+  {
+    "brand_id": "77",
+    "name": "Casio5 devices",
+    "slug": "casio",
+    "url": "https://www.gsmarena.com/casio-phones-77.php",
+    "device_count": 5
+  },
+  {
+    "brand_id": "89",
+    "name": "Cat22 devices",
+    "slug": "cat",
+    "url": "https://www.gsmarena.com/cat-phones-89.php",
+    "device_count": 22
+  },
+  {
+    "brand_id": "75",
+    "name": "Celkon229 devices",
+    "slug": "celkon",
+    "url": "https://www.gsmarena.com/celkon-phones-75.php",
+    "device_count": 229
+  },
+  {
+    "brand_id": "24",
+    "name": "Chea12 devices",
+    "slug": "chea",
+    "url": "https://www.gsmarena.com/chea-phones-24.php",
+    "device_count": 12
+  },
+  {
+    "brand_id": "105",
+    "name": "Coolpad56 devices",
+    "slug": "coolpad",
+    "url": "https://www.gsmarena.com/coolpad-phones-105.php",
+    "device_count": 56
+  },
+  {
+    "brand_id": "130",
+    "name": "Cubot100 devices",
+    "slug": "cubot",
+    "url": "https://www.gsmarena.com/cubot-phones-130.php",
+    "device_count": 100
+  },
+  {
+    "brand_id": "61",
+    "name": "Dell20 devices",
+    "slug": "dell",
+    "url": "https://www.gsmarena.com/dell-phones-61.php",
+    "device_count": 20
+  },
+  {
+    "brand_id": "129",
+    "name": "Doogee157 devices",
+    "slug": "doogee",
+    "url": "https://www.gsmarena.com/doogee-phones-129.php",
+    "device_count": 157
+  },
+  {
+    "brand_id": "93",
+    "name": "Emporia15 devices",
+    "slug": "emporia",
+    "url": "https://www.gsmarena.com/emporia-phones-93.php",
+    "device_count": 15
+  },
+  {
+    "brand_id": "106",
+    "name": "Energizer78 devices",
+    "slug": "energizer",
+    "url": "https://www.gsmarena.com/energizer-phones-106.php",
+    "device_count": 78
+  },
+  {
+    "brand_id": "2",
+    "name": "Ericsson40 devices",
+    "slug": "ericsson",
+    "url": "https://www.gsmarena.com/ericsson-phones-2.php",
+    "device_count": 40
+  },
+  {
+    "brand_id": "40",
+    "name": "Eten22 devices",
+    "slug": "eten",
+    "url": "https://www.gsmarena.com/eten-phones-40.php",
+    "device_count": 22
+  },
+  {
+    "brand_id": "127",
+    "name": "Fairphone5 devices",
+    "slug": "fairphone",
+    "url": "https://www.gsmarena.com/fairphone-phones-127.php",
+    "device_count": 5
+  },
+  {
+    "brand_id": "50",
+    "name": "Fujitsu Siemens2 devices",
+    "slug": "fujitsu-siemens",
+    "url": "https://www.gsmarena.com/fujitsu_siemens-phones-50.php",
+    "device_count": 2
+  },
+  {
+    "brand_id": "65",
+    "name": "Garmin-Asus5 devices",
+    "slug": "garmin-asus",
+    "url": "https://www.gsmarena.com/garmin_asus-phones-65.php",
+    "device_count": 5
+  },
+  {
+    "brand_id": "47",
+    "name": "Gigabyte63 devices",
+    "slug": "gigabyte",
+    "url": "https://www.gsmarena.com/gigabyte-phones-47.php",
+    "device_count": 63
+  },
+  {
+    "brand_id": "92",
+    "name": "Gionee95 devices",
+    "slug": "gionee",
+    "url": "https://www.gsmarena.com/gionee-phones-92.php",
+    "device_count": 95
+  },
+  {
+    "brand_id": "107",
+    "name": "Google40 devices",
+    "slug": "google",
+    "url": "https://www.gsmarena.com/google-phones-107.php",
+    "device_count": 40
+  },
+  {
+    "brand_id": "33",
+    "name": "Haier59 devices",
+    "slug": "haier",
+    "url": "https://www.gsmarena.com/haier-phones-33.php",
+    "device_count": 59
+  },
+  {
+    "brand_id": "133",
+    "name": "HMD36 devices",
+    "slug": "hmd",
+    "url": "https://www.gsmarena.com/hmd-phones-133.php",
+    "device_count": 36
+  },
+  {
+    "brand_id": "121",
+    "name": "Honor309 devices",
+    "slug": "honor",
+    "url": "https://www.gsmarena.com/honor-phones-121.php",
+    "device_count": 309
+  },
+  {
+    "brand_id": "41",
+    "name": "HP41 devices",
+    "slug": "hp",
+    "url": "https://www.gsmarena.com/hp-phones-41.php",
+    "device_count": 41
+  },
+  {
+    "brand_id": "45",
+    "name": "HTC296 devices",
+    "slug": "htc",
+    "url": "https://www.gsmarena.com/htc-phones-45.php",
+    "device_count": 296
+  },
+  {
+    "brand_id": "58",
+    "name": "Huawei517 devices",
+    "slug": "huawei",
+    "url": "https://www.gsmarena.com/huawei-phones-58.php",
+    "device_count": 517
+  },
+  {
+    "brand_id": "35",
+    "name": "i-mate34 devices",
+    "slug": "i-mate",
+    "url": "https://www.gsmarena.com/i_mate-phones-35.php",
+    "device_count": 34
+  },
+  {
+    "brand_id": "52",
+    "name": "i-mobile37 devices",
+    "slug": "i-mobile",
+    "url": "https://www.gsmarena.com/i_mobile-phones-52.php",
+    "device_count": 37
+  },
+  {
+    "brand_id": "69",
+    "name": "Icemobile61 devices",
+    "slug": "icemobile",
+    "url": "https://www.gsmarena.com/icemobile-phones-69.php",
+    "device_count": 61
+  },
+  {
+    "brand_id": "119",
+    "name": "Infinix169 devices",
+    "slug": "infinix",
+    "url": "https://www.gsmarena.com/infinix-phones-119.php",
+    "device_count": 169
+  },
+  {
+    "brand_id": "29",
+    "name": "Innostream18 devices",
+    "slug": "innostream",
+    "url": "https://www.gsmarena.com/innostream-phones-29.php",
+    "device_count": 18
+  },
+  {
+    "brand_id": "60",
+    "name": "iNQ5 devices",
+    "slug": "inq",
+    "url": "https://www.gsmarena.com/inq-phones-60.php",
+    "device_count": 5
+  },
+  {
+    "brand_id": "102",
+    "name": "Intex15 devices",
+    "slug": "intex",
+    "url": "https://www.gsmarena.com/intex-phones-102.php",
+    "device_count": 15
+  },
+  {
+    "brand_id": "131",
+    "name": "itel61 devices",
+    "slug": "itel",
+    "url": "https://www.gsmarena.com/itel-phones-131.php",
+    "device_count": 61
+  },
+  {
+    "brand_id": "84",
+    "name": "Jolla5 devices",
+    "slug": "jolla",
+    "url": "https://www.gsmarena.com/jolla-phones-84.php",
+    "device_count": 5
+  },
+  {
+    "brand_id": "83",
+    "name": "Karbonn60 devices",
+    "slug": "karbonn",
+    "url": "https://www.gsmarena.com/karbonn-phones-83.php",
+    "device_count": 60
+  },
+  {
+    "brand_id": "17",
+    "name": "Kyocera28 devices",
+    "slug": "kyocera",
+    "url": "https://www.gsmarena.com/kyocera-phones-17.php",
+    "device_count": 28
+  },
+  {
+    "brand_id": "94",
+    "name": "Lava178 devices",
+    "slug": "lava",
+    "url": "https://www.gsmarena.com/lava-phones-94.php",
+    "device_count": 178
+  },
+  {
+    "brand_id": "109",
+    "name": "LeEco9 devices",
+    "slug": "leeco",
+    "url": "https://www.gsmarena.com/leeco-phones-109.php",
+    "device_count": 9
+  },
+  {
+    "brand_id": "73",
+    "name": "Lenovo261 devices",
+    "slug": "lenovo",
+    "url": "https://www.gsmarena.com/lenovo-phones-73.php",
+    "device_count": 261
+  },
+  {
+    "brand_id": "20",
+    "name": "LG667 devices",
+    "slug": "lg",
+    "url": "https://www.gsmarena.com/lg-phones-20.php",
+    "device_count": 667
+  },
+  {
+    "brand_id": "14",
+    "name": "Maxon31 devices",
+    "slug": "maxon",
+    "url": "https://www.gsmarena.com/maxon-phones-14.php",
+    "device_count": 31
+  },
+  {
+    "brand_id": "87",
+    "name": "Maxwest41 devices",
+    "slug": "maxwest",
+    "url": "https://www.gsmarena.com/maxwest-phones-87.php",
+    "device_count": 41
+  },
+  {
+    "brand_id": "74",
+    "name": "Meizu87 devices",
+    "slug": "meizu",
+    "url": "https://www.gsmarena.com/meizu-phones-74.php",
+    "device_count": 87
+  },
+  {
+    "brand_id": "66",
+    "name": "Micromax289 devices",
+    "slug": "micromax",
+    "url": "https://www.gsmarena.com/micromax-phones-66.php",
+    "device_count": 289
+  },
+  {
+    "brand_id": "64",
+    "name": "Microsoft32 devices",
+    "slug": "microsoft",
+    "url": "https://www.gsmarena.com/microsoft-phones-64.php",
+    "device_count": 32
+  },
+  {
+    "brand_id": "25",
+    "name": "Mitac12 devices",
+    "slug": "mitac",
+    "url": "https://www.gsmarena.com/mitac-phones-25.php",
+    "device_count": 12
+  },
+  {
+    "brand_id": "8",
+    "name": "Mitsubishi25 devices",
+    "slug": "mitsubishi",
+    "url": "https://www.gsmarena.com/mitsubishi-phones-8.php",
+    "device_count": 25
+  },
+  {
+    "brand_id": "63",
+    "name": "Modu8 devices",
+    "slug": "modu",
+    "url": "https://www.gsmarena.com/modu-phones-63.php",
+    "device_count": 8
+  },
+  {
+    "brand_id": "4",
+    "name": "Motorola685 devices",
+    "slug": "motorola",
+    "url": "https://www.gsmarena.com/motorola-phones-4.php",
+    "device_count": 685
+  },
+  {
+    "brand_id": "56",
+    "name": "MWg5 devices",
+    "slug": "mwg",
+    "url": "https://www.gsmarena.com/mwg-phones-56.php",
+    "device_count": 5
+  },
+  {
+    "brand_id": "12",
+    "name": "NEC73 devices",
+    "slug": "nec",
+    "url": "https://www.gsmarena.com/nec-phones-12.php",
+    "device_count": 73
+  },
+  {
+    "brand_id": "22",
+    "name": "Neonode3 devices",
+    "slug": "neonode",
+    "url": "https://www.gsmarena.com/neonode-phones-22.php",
+    "device_count": 3
+  },
+  {
+    "brand_id": "79",
+    "name": "NIU30 devices",
+    "slug": "niu",
+    "url": "https://www.gsmarena.com/niu-phones-79.php",
+    "device_count": 30
+  },
+  {
+    "brand_id": "1",
+    "name": "Nokia592 devices",
+    "slug": "nokia",
+    "url": "https://www.gsmarena.com/nokia-phones-1.php",
+    "device_count": 592
+  },
+  {
+    "brand_id": "128",
+    "name": "Nothing15 devices",
+    "slug": "nothing",
+    "url": "https://www.gsmarena.com/nothing-phones-128.php",
+    "device_count": 15
+  },
+  {
+    "brand_id": "97",
+    "name": "Nvidia3 devices",
+    "slug": "nvidia",
+    "url": "https://www.gsmarena.com/nvidia-phones-97.php",
+    "device_count": 3
+  },
+  {
+    "brand_id": "30",
+    "name": "O245 devices",
+    "slug": "o2",
+    "url": "https://www.gsmarena.com/o2-phones-30.php",
+    "device_count": 245
+  },
+  {
+    "brand_id": "95",
+    "name": "OnePlus105 devices",
+    "slug": "oneplus",
+    "url": "https://www.gsmarena.com/oneplus-phones-95.php",
+    "device_count": 105
+  },
+  {
+    "brand_id": "82",
+    "name": "Oppo403 devices",
+    "slug": "oppo",
+    "url": "https://www.gsmarena.com/oppo-phones-82.php",
+    "device_count": 403
+  },
+  {
+    "brand_id": "71",
+    "name": "Orange19 devices",
+    "slug": "orange",
+    "url": "https://www.gsmarena.com/orange-phones-71.php",
+    "device_count": 19
+  },
+  {
+    "brand_id": "134",
+    "name": "Oscal31 devices",
+    "slug": "oscal",
+    "url": "https://www.gsmarena.com/oscal-phones-134.php",
+    "device_count": 31
+  },
+  {
+    "brand_id": "132",
+    "name": "Oukitel104 devices",
+    "slug": "oukitel",
+    "url": "https://www.gsmarena.com/oukitel-phones-132.php",
+    "device_count": 104
+  },
+  {
+    "brand_id": "27",
+    "name": "Palm17 devices",
+    "slug": "palm",
+    "url": "https://www.gsmarena.com/palm-phones-27.php",
+    "device_count": 17
+  },
+  {
+    "brand_id": "6",
+    "name": "Panasonic123 devices",
+    "slug": "panasonic",
+    "url": "https://www.gsmarena.com/panasonic-phones-6.php",
+    "device_count": 123
+  },
+  {
+    "brand_id": "32",
+    "name": "Pantech72 devices",
+    "slug": "pantech",
+    "url": "https://www.gsmarena.com/pantech-phones-32.php",
+    "device_count": 72
+  },
+  {
+    "brand_id": "81",
+    "name": "Parla10 devices",
+    "slug": "parla",
+    "url": "https://www.gsmarena.com/parla-phones-81.php",
+    "device_count": 10
+  },
+  {
+    "brand_id": "11",
+    "name": "Philips233 devices",
+    "slug": "philips",
+    "url": "https://www.gsmarena.com/philips-phones-11.php",
+    "device_count": 233
+  },
+  {
+    "brand_id": "72",
+    "name": "Plum113 devices",
+    "slug": "plum",
+    "url": "https://www.gsmarena.com/plum-phones-72.php",
+    "device_count": 113
+  },
+  {
+    "brand_id": "101",
+    "name": "Posh30 devices",
+    "slug": "posh",
+    "url": "https://www.gsmarena.com/posh-phones-101.php",
+    "device_count": 30
+  },
+  {
+    "brand_id": "86",
+    "name": "Prestigio56 devices",
+    "slug": "prestigio",
+    "url": "https://www.gsmarena.com/prestigio-phones-86.php",
+    "device_count": 56
+  },
+  {
+    "brand_id": "103",
+    "name": "QMobile90 devices",
+    "slug": "qmobile",
+    "url": "https://www.gsmarena.com/qmobile-phones-103.php",
+    "device_count": 90
+  },
+  {
+    "brand_id": "38",
+    "name": "Qtek21 devices",
+    "slug": "qtek",
+    "url": "https://www.gsmarena.com/qtek-phones-38.php",
+    "device_count": 21
+  },
+  {
+    "brand_id": "117",
+    "name": "Razer2 devices",
+    "slug": "razer",
+    "url": "https://www.gsmarena.com/razer-phones-117.php",
+    "device_count": 2
+  },
+  {
+    "brand_id": "118",
+    "name": "Realme287 devices",
+    "slug": "realme",
+    "url": "https://www.gsmarena.com/realme-phones-118.php",
+    "device_count": 287
+  },
+  {
+    "brand_id": "136",
+    "name": "RugOne2 devices",
+    "slug": "rugone",
+    "url": "https://www.gsmarena.com/rugone-phones-136.php",
+    "device_count": 2
+  },
+  {
+    "brand_id": "13",
+    "name": "Sagem120 devices",
+    "slug": "sagem",
+    "url": "https://www.gsmarena.com/sagem-phones-13.php",
+    "device_count": 120
+  },
+  {
+    "brand_id": "9",
+    "name": "Samsung1454 devices",
+    "slug": "samsung",
+    "url": "https://www.gsmarena.com/samsung-phones-9.php",
+    "device_count": 1454
+  },
+  {
+    "brand_id": "18",
+    "name": "Sendo19 devices",
+    "slug": "sendo",
+    "url": "https://www.gsmarena.com/sendo-phones-18.php",
+    "device_count": 19
+  },
+  {
+    "brand_id": "26",
+    "name": "Sewon25 devices",
+    "slug": "sewon",
+    "url": "https://www.gsmarena.com/sewon-phones-26.php",
+    "device_count": 25
+  },
+  {
+    "brand_id": "23",
+    "name": "Sharp82 devices",
+    "slug": "sharp",
+    "url": "https://www.gsmarena.com/sharp-phones-23.php",
+    "device_count": 82
+  },
+  {
+    "brand_id": "3",
+    "name": "Siemens94 devices",
+    "slug": "siemens",
+    "url": "https://www.gsmarena.com/siemens-phones-3.php",
+    "device_count": 94
+  },
+  {
+    "brand_id": "54",
+    "name": "Sonim24 devices",
+    "slug": "sonim",
+    "url": "https://www.gsmarena.com/sonim-phones-54.php",
+    "device_count": 24
+  },
+  {
+    "brand_id": "7",
+    "name": "Sony162 devices",
+    "slug": "sony",
+    "url": "https://www.gsmarena.com/sony-phones-7.php",
+    "device_count": 162
+  },
+  {
+    "brand_id": "19",
+    "name": "Sony Ericsson188 devices",
+    "slug": "sony-ericsson",
+    "url": "https://www.gsmarena.com/sony_ericsson-phones-19.php",
+    "device_count": 188
+  },
+  {
+    "brand_id": "68",
+    "name": "Spice120 devices",
+    "slug": "spice",
+    "url": "https://www.gsmarena.com/spice-phones-68.php",
+    "device_count": 120
+  },
+  {
+    "brand_id": "55",
+    "name": "T-Mobile69 devices",
+    "slug": "t-mobile",
+    "url": "https://www.gsmarena.com/t_mobile-phones-55.php",
+    "device_count": 69
+  },
+  {
+    "brand_id": "123",
+    "name": "TCL100 devices",
+    "slug": "tcl",
+    "url": "https://www.gsmarena.com/tcl-phones-123.php",
+    "device_count": 100
+  },
+  {
+    "brand_id": "120",
+    "name": "Tecno185 devices",
+    "slug": "tecno",
+    "url": "https://www.gsmarena.com/tecno-phones-120.php",
+    "device_count": 185
+  },
+  {
+    "brand_id": "21",
+    "name": "Tel.Me.7 devices",
+    "slug": "tel-me-",
+    "url": "https://www.gsmarena.com/tel_me_-phones-21.php",
+    "device_count": 7
+  },
+  {
+    "brand_id": "16",
+    "name": "Telit30 devices",
+    "slug": "telit",
+    "url": "https://www.gsmarena.com/telit-phones-16.php",
+    "device_count": 30
+  },
+  {
+    "brand_id": "49",
+    "name": "Thuraya2 devices",
+    "slug": "thuraya",
+    "url": "https://www.gsmarena.com/thuraya-phones-49.php",
+    "device_count": 2
+  },
+  {
+    "brand_id": "44",
+    "name": "Toshiba35 devices",
+    "slug": "toshiba",
+    "url": "https://www.gsmarena.com/toshiba-phones-44.php",
+    "device_count": 35
+  },
+  {
+    "brand_id": "124",
+    "name": "Ulefone145 devices",
+    "slug": "ulefone",
+    "url": "https://www.gsmarena.com/ulefone-phones-124.php",
+    "device_count": 145
+  },
+  {
+    "brand_id": "135",
+    "name": "Umidigi80 devices",
+    "slug": "umidigi",
+    "url": "https://www.gsmarena.com/umidigi-phones-135.php",
+    "device_count": 80
+  },
+  {
+    "brand_id": "91",
+    "name": "Unnecto30 devices",
+    "slug": "unnecto",
+    "url": "https://www.gsmarena.com/unnecto-phones-91.php",
+    "device_count": 30
+  },
+  {
+    "brand_id": "39",
+    "name": "Vertu17 devices",
+    "slug": "vertu",
+    "url": "https://www.gsmarena.com/vertu-phones-39.php",
+    "device_count": 17
+  },
+  {
+    "brand_id": "70",
+    "name": "verykool139 devices",
+    "slug": "verykool",
+    "url": "https://www.gsmarena.com/verykool-phones-70.php",
+    "device_count": 139
+  },
+  {
+    "brand_id": "98",
+    "name": "vivo583 devices",
+    "slug": "vivo",
+    "url": "https://www.gsmarena.com/vivo-phones-98.php",
+    "device_count": 583
+  },
+  {
+    "brand_id": "37",
+    "name": "VK Mobile31 devices",
+    "slug": "vk-mobile",
+    "url": "https://www.gsmarena.com/vk_mobile-phones-37.php",
+    "device_count": 31
+  },
+  {
+    "brand_id": "53",
+    "name": "Vodafone87 devices",
+    "slug": "vodafone",
+    "url": "https://www.gsmarena.com/vodafone-phones-53.php",
+    "device_count": 87
+  },
+  {
+    "brand_id": "96",
+    "name": "Wiko102 devices",
+    "slug": "wiko",
+    "url": "https://www.gsmarena.com/wiko-phones-96.php",
+    "device_count": 102
+  },
+  {
+    "brand_id": "51",
+    "name": "WND5 devices",
+    "slug": "wnd",
+    "url": "https://www.gsmarena.com/wnd-phones-51.php",
+    "device_count": 5
+  },
+  {
+    "brand_id": "43",
+    "name": "XCute4 devices",
+    "slug": "xcute",
+    "url": "https://www.gsmarena.com/xcute-phones-43.php",
+    "device_count": 4
+  },
+  {
+    "brand_id": "80",
+    "name": "Xiaomi507 devices",
+    "slug": "xiaomi",
+    "url": "https://www.gsmarena.com/xiaomi-phones-80.php",
+    "device_count": 507
+  },
+  {
+    "brand_id": "85",
+    "name": "XOLO81 devices",
+    "slug": "xolo",
+    "url": "https://www.gsmarena.com/xolo-phones-85.php",
+    "device_count": 81
+  },
+  {
+    "brand_id": "78",
+    "name": "Yezz113 devices",
+    "slug": "yezz",
+    "url": "https://www.gsmarena.com/yezz-phones-78.php",
+    "device_count": 113
+  },
+  {
+    "brand_id": "99",
+    "name": "Yota3 devices",
+    "slug": "yota",
+    "url": "https://www.gsmarena.com/yota-phones-99.php",
+    "device_count": 3
+  },
+  {
+    "brand_id": "100",
+    "name": "YU13 devices",
+    "slug": "yu",
+    "url": "https://www.gsmarena.com/yu-phones-100.php",
+    "device_count": 13
+  },
+  {
+    "brand_id": "62",
+    "name": "ZTE430 devices",
+    "slug": "zte",
+    "url": "https://www.gsmarena.com/zte-phones-62.php",
+    "device_count": 430
+  }
+]

@@ -1,0 +1,883 @@
+{
+  "brand": {
+    "brand_id": "48",
+    "name": "Apple147 devices",
+    "slug": "apple",
+    "url": "https://www.gsmarena.com/apple-phones-48.php",
+    "device_count": 147
+  },
+  "devices": [
+    {
+      "name": "iPhone 17e",
+      "device_id": "14487",
+      "url": "https://www.gsmarena.com/apple_iphone_17e-14487.php",
+      "thumbnail": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-17e.jpg",
+      "quick_spec": "Apple iPhone 17e smartphone. Announced Mar 2026. Features 6.1″  display, Apple A19 chipset, 4005 mAh battery, 512 GB storage, 8 GB RAM, Ceramic Shield 2.",
+      "highlights": {},
+      "specs": {
+        "Network": {
+          "Technology": "GSM / HSPA / LTE / 5G",
+          "2G bands": "GSM 850 / 900 / 1800 / 1900",
+          "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+          "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 28, 29, 30, 32, 34, 38, 39, 40, 41, 42, 48, 53, 66, 71 - A3575",
+          "5G bands": "1, 2, 3, 5, 7, 8, 12, 14, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 53, 66, 70, 71, 75, 77, 78, 79 SA/NSA/Sub6 - A3575",
+          "Speed": "HSPA, LTE, 5G"
+        },
+        "Launch": {
+          "Announced": "2026, March 02",
+          "Status": "Available. Released 2026, March 11"
+        },
+        "Body": {
+          "Dimensions": "146.7 x 71.5 x 7.8 mm (5.78 x 2.81 x 0.31 in)",
+          "Weight": "169 g (5.96 oz)",
+          "Build": "Glass front (Ceramic Shield 2), glass back, aluminum frame",
+          "SIM": "· Nano-SIM +\neSIM\n+ eSIM (max 2 at a time; International)\n· eSIM + eSIM (8 or more, max 2 at a time; USA)\n· Nano-SIM + Nano-SIM (China)"
+        },
+        "Display": {
+          "Type": "Super Retina XDR OLED, HDR10, 800 nits (HBM), 1200 nits (peak)",
+          "Size": "6.1 inches, 90.2 cm\n2\n(~86.0% screen-to-body ratio)",
+          "Resolution": "1170 x 2532 pixels, 19.5:9 ratio (~460 ppi density)",
+          "Protection": "Ceramic Shield 2, Mohs level 5"
+        },
+        "Platform": {
+          "OS": "iOS 26.3, upgradable to iOS 26.4",
+          "Chipset": "Apple A19 (3 nm)",
+          "CPU": "Hexa-core (2x4.26 GHz + 4x2.60 GHz)",
+          "GPU": "Apple GPU (4-core graphics)"
+        },
+        "Memory": {
+          "Card slot": "No",
+          "Internal": "256GB 8GB RAM, 512GB 8GB RAM"
+        },
+        "Main Camera": {
+          "Single": "48 MP, f/1.6, 26mm (wide), 1/2.55\", 0.7µm, PDAF, OIS",
+          "Features": "Dual-LED dual-tone flash, HDR, panorama, 3D (spatial) audio",
+          "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, Dolby Vision HDR, OIS, stereo sound rec."
+        },
+        "Selfie camera": {
+          "Single": "12 MP, f/1.9, 23mm (wide), 1/3.6\", 1.0µm, PDAF\nSL 3D, (depth/biometrics sensor)",
+          "Features": "HDR, Dolby Vision HDR, 3D (spatial) audio, stereo sound rec.",
+          "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120fps, Dolby Vision HDR"
+        },
+        "Sound": {
+          "Loudspeaker": "Yes, with stereo speakers",
+          "3.5mm jack": "No"
+        },
+        "Comms": {
+          "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot",
+          "Bluetooth": "5.3, A2DP, LE",
+          "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS, NavIC",
+          "NFC": "Yes",
+          "Radio": "No",
+          "USB": "USB Type-C 2.0"
+        },
+        "Features": {
+          "Sensors": "Face ID, accelerometer, gyro, proximity, compass, barometer"
+        },
+        "Battery": {
+          "Type": "Li-Ion 4005 mAh",
+          "Charging": "Wired, 50% in 30 min\n15W wireless MagSafe/Qi2"
+        },
+        "Misc": {
+          "Colors": "Black, White, Soft Pink",
+          "Models": "A3634, A3575, A3635, iPhone18,5",
+          "SAR": "1.20 W/kg (head)     1.20 W/kg (body)",
+          "SAR EU": "1.49 W/kg (head)     1.49 W/kg (body)",
+          "Price": "£ 599.00 / € 657.00"
+        },
+        "Our Tests": {
+          "Performance": "AnTuTu: 2187425 (v11)\nGeekBench: 9296 (v6)\n3DMark: 4226 (Wild Life Extreme)",
+          "Display": "814 nits max brightness (measured)",
+          "Loudspeaker": "-26.7 LUFS (Good)",
+          "Battery": "Active use score 15:30h"
+        },
+        "EU LABEL": {
+          "Energy": "Class A",
+          "Battery": "45:00h endurance, 1000 cycles",
+          "Free fall": "Class B (180 falls)",
+          "Repairability": "Class C"
+        }
+      }
+    },
+    {
+      "name": "iPad Air 13 (2026)",
+      "device_id": "14521",
+      "url": "https://www.gsmarena.com/apple_ipad_air_13_5g_(2026)-14521.php",
+      "thumbnail": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-air-13-2025.jpg",
+      "quick_spec": "Apple iPad Air 13 5G (2026) tablet. Announced Mar 2026. Features 13.0″  display, Apple M4 chipset, 9705 mAh battery, 1024 GB storage, 12 GB RAM, Scratch-resistant glass.",
+      "highlights": {},
+      "specs": {
+        "Network": {
+          "Technology": "GSM / HSPA / LTE / 5G",
+          "2G bands": "GSM 850 / 900 / 1800 / 1900",
+          "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+          "4G bands": "1, 2, 3, 4, 5, 7, 8, 11, 12, 13, 14, 17, 18, 19, 20, 21, 25, 26, 28, 29, 30, 32, 34, 38, 39, 40, 41, 42, 48, 66, 71",
+          "5G bands": "1, 2, 3, 5, 7, 8, 12, 14, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 66, 70, 71, 75, 77, 78, 79 SA/NSA/Sub6",
+          "Speed": "HSPA, LTE, 5G - cellular model only"
+        },
+        "Launch": {
+          "Announced": "2026, March 02",
+          "Status": "Available. Released 2026, March 11"
+        },
+        "Body": {
+          "Dimensions": "280.6 x 214.9 x 6.1 mm (11.05 x 8.46 x 0.24 in)",
+          "Weight": "616 g (Wi-Fi) / 617 g (5G) (1.36 lb)",
+          "Build": "Glass front, aluminum back, aluminum frame",
+          "SIM": "eSIM\n(cellular model only)"
+        },
+        "Display": {
+          "Type": "Liquid Retina IPS LCD, 600 nits (typ)",
+          "Size": "13.0 inches, 519.3 cm\n2\n(~86.1% screen-to-body ratio)",
+          "Resolution": "2048 x 2732 pixels, 4:3 ratio (~264 ppi density)",
+          "Protection": "Scratch-resistant glass, oleophobic coating, Mohs level 4"
+        },
+        "Platform": {
+          "OS": "iPadOS 26.3, upgradable to iPadOS 26.4",
+          "Chipset": "Apple M4",
+          "CPU": "Octa-core (4 performance cores and 4 efficiency cores)",
+          "GPU": "Apple GPU (9-core graphics)"
+        },
+        "Memory": {
+          "Card slot": "No",
+          "Internal": "128GB 12GB RAM, 256GB 12GB RAM, 512GB 12GB RAM, 1TB 12GB RAM"
+        },
+        "Main Camera": {
+          "Single": "12 MP, f/1.8, (wide), 1/3.0\", 1.22µm, dual pixel PDAF",
+          "Features": "HDR",
+          "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps; gyro-EIS"
+        },
+        "Selfie camera": {
+          "Single": "12 MP, f/2.0, 122˚ (ultrawide)",
+          "Features": "HDR",
+          "Video": "1080p@25/30/60fps; gyro-EIS"
+        },
+        "Sound": {
+          "Loudspeaker": "Yes, with stereo speakers",
+          "3.5mm jack": "No"
+        },
+        "Comms": {
+          "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band, hotspot",
+          "Bluetooth": "6.0, A2DP, LE",
+          "Positioning": "GPS, GLONASS (5G model only)",
+          "NFC": "No",
+          "Radio": "No",
+          "USB": "USB Type-C 3.1 Gen2, DisplayPort, magnetic connector"
+        },
+        "Features": {
+          "Sensors": "Fingerprint (top-mounted), accelerometer, gyro, compass, barometer"
+        },
+        "Battery": {
+          "Type": "Li-Po 9705 mAh (36.59 Wh)"
+        },
+        "Misc": {
+          "Colors": "Space Gray, Starlight, Purple, Blue",
+          "Models": "A3462, A3464, A3461, iPad16,10, iPad16,11",
+          "SAR": "1.19 W/kg (body)",
+          "SAR EU": "1.50 W/kg (body)",
+          "Price": "About 850 EUR"
+        },
+        "EU LABEL": {
+          "Energy": "Class G",
+          "Battery": "72:00h endurance, 1000 cycles",
+          "Free fall": "Class E (16 falls)",
+          "Repairability": "Class C"
+        }
+      }
+    },
+    {
+      "name": "iPad Air 11 (2026)",
+      "device_id": "14520",
+      "url": "https://www.gsmarena.com/apple_ipad_air_11_5g_(2026)-14520.php",
+      "thumbnail": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-air-11-2025.jpg",
+      "quick_spec": "Apple iPad Air 11 5G (2026) tablet. Announced Mar 2026. Features 11.0″  display, Apple M4 chipset, 7606 mAh battery, 1024 GB storage, 12 GB RAM, Scratch-resistant glass.",
+      "highlights": {},
+      "specs": {
+        "Network": {
+          "Technology": "GSM / HSPA / LTE / 5G",
+          "2G bands": "GSM 850 / 900 / 1800 / 1900",
+          "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+          "4G bands": "1, 2, 3, 4, 5, 7, 8, 11, 12, 13, 14, 17, 18, 19, 20, 21, 25, 26, 28, 29, 30, 32, 34, 38, 39, 40, 41, 42, 48, 66, 71",
+          "5G bands": "1, 2, 3, 5, 7, 8, 12, 14, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 66, 70, 71, 75, 77, 78, 79 SA/NSA/Sub6",
+          "Speed": "HSPA, LTE, 5G - cellular model only"
+        },
+        "Launch": {
+          "Announced": "2026, March 02",
+          "Status": "Available. Released 2026, March 11"
+        },
+        "Body": {
+          "Dimensions": "247.6 x 178.5 x 6.1 mm (9.75 x 7.03 x 0.24 in)",
+          "Weight": "464 g (Wi-Fi) / 465 g (5G) (1.02 lb)",
+          "Build": "Glass front, aluminum back, aluminum frame",
+          "SIM": "eSIM\n(cellular model only)"
+        },
+        "Display": {
+          "Type": "Liquid Retina IPS LCD, 500 nits (typ)",
+          "Size": "11.0 inches, 357.6 cm\n2\n(~80.9% screen-to-body ratio)",
+          "Resolution": "1640 x 2360 pixels (~264 ppi density)",
+          "Protection": "Scratch-resistant glass, oleophobic coating, Mohs level 4"
+        },
+        "Platform": {
+          "OS": "iPadOS 26.3, upgradable to iPadOS 26.4",
+          "Chipset": "Apple M4",
+          "CPU": "Octa-core (4 performance cores and 4 efficiency cores)",
+          "GPU": "Apple GPU (9-core graphics)"
+        },
+        "Memory": {
+          "Card slot": "No",
+          "Internal": "128GB 12GB RAM, 256GB 12GB RAM, 512GB 12GB RAM, 1TB 12GB RAM"
+        },
+        "Main Camera": {
+          "Single": "12 MP, f/1.8, (wide), 1/3.0\", 1.22µm, dual pixel PDAF",
+          "Features": "HDR",
+          "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps; gyro-EIS"
+        },
+        "Selfie camera": {
+          "Single": "12 MP, f/2.0, 122˚ (ultrawide)",
+          "Features": "HDR",
+          "Video": "1080p@25/30/60fps; gyro-EIS"
+        },
+        "Sound": {
+          "Loudspeaker": "Yes, with stereo speakers",
+          "3.5mm jack": "No"
+        },
+        "Comms": {
+          "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7 dual-band, hotspot",
+          "Bluetooth": "6.0, A2DP, LE",
+          "Positioning": "GPS, GLONASS (5G model only)",
+          "NFC": "No",
+          "Radio": "No",
+          "USB": "USB Type-C 3.1 Gen2, DisplayPort, magnetic connector"
+        },
+        "Features": {
+          "Sensors": "Fingerprint (top-mounted), accelerometer, gyro, compass, barometer"
+        },
+        "Battery": {
+          "Type": "Li-Po 7606 mAh (28.93 Wh)"
+        },
+        "Misc": {
+          "Colors": "Space Gray, Starlight, Purple, Blue",
+          "Models": "A3460, A3463, A3459, iPad16,8, iPad16,9",
+          "SAR": "1.19 W/kg (body)",
+          "SAR EU": "1.50 W/kg (body)",
+          "Price": "About 650 EUR"
+        },
+        "EU LABEL": {
+          "Energy": "Class G",
+          "Battery": "62:00h endurance, 1000 cycles",
+          "Free fall": "Class E (42 falls)",
+          "Repairability": "Class C"
+        }
+      }
+    },
+    {
+      "name": "iPad Pro 13 (2025)",
+      "device_id": "14233",
+      "url": "https://www.gsmarena.com/apple_ipad_pro_13_5g_(2025)-14233.php",
+      "thumbnail": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-pro-13-2024.jpg",
+      "quick_spec": "Apple iPad Pro 13 5G (2025) tablet. Announced Oct 2025. Features 13.0″  display, Apple M5 chipset, 10290 mAh battery, 2048 GB storage, 16 GB RAM, Scratch-resistant glass.",
+      "highlights": {},
+      "specs": {
+        "Network": {
+          "Technology": "GSM / HSPA / LTE / 5G",
+          "2G bands": "GSM 850 / 900 / 1800 / 1900 - cellular model only",
+          "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - cellular model only",
+          "4G bands": "1, 2, 3, 4, 5, 7, 8, 11, 12, 13, 14, 17, 18, 19, 20, 21, 25, 26, 28, 29, 30, 32, 34, 38, 39, 40, 41, 42, 48, 66, 71 - A3361 - cellular model only",
+          "5G bands": "1, 2, 3, 5, 7, 8, 12, 14, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 66, 70, 71, 75, 77, 78, 79 SA/NSA/Sub6 - A3361, A3362 - cellular model only",
+          "Speed": "HSPA, LTE, 5G - cellular model only"
+        },
+        "Launch": {
+          "Announced": "2025, October 16",
+          "Status": "Available. Released 2025, October 22"
+        },
+        "Body": {
+          "Dimensions": "281.6 x 215.5 x 5.1 mm (11.09 x 8.48 x 0.20 in)",
+          "Weight": "579 g (Wi-Fi), 582 g (5G) (1.28 lb)",
+          "Build": "Glass front, aluminum back, aluminum frame",
+          "SIM": "eSIM\n- cellular model only"
+        },
+        "Display": {
+          "Type": "Ultra Retina Tandem OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (HBM), 1600 nits (peak)",
+          "Size": "13.0 inches, 523.4 cm\n2\n(~86.2% screen-to-body ratio)",
+          "Resolution": "2064 x 2752 pixels, 4:3 ratio (~265 ppi density)",
+          "Protection": "Scratch-resistant glass, oleophobic coating, Mohs level 4"
+        },
+        "Platform": {
+          "OS": "iPadOS 26, upgradable to iPadOS 26.4",
+          "Chipset": "Apple M5",
+          "CPU": "9-core (3 performance cores, 6 efficiency cores) - 256/512GB models\n10-core (4 performance cores, 6 efficiency cores) - 1/2TB models",
+          "GPU": "Apple GPU (10-core graphics)"
+        },
+        "Memory": {
+          "Card slot": "No",
+          "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 1TB 16GB RAM, 2TB 16GB RAM"
+        },
+        "Main Camera": {
+          "Single": "12 MP, f/1.8, (wide), dual pixel PDAF\nTOF 3D LiDAR scanner (depth)",
+          "Features": "Quad-LED dual-tone flash, HDR",
+          "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps; gyro-EIS, ProRes (4K, 1080p)"
+        },
+        "Selfie camera": {
+          "Single": "12 MP, f/2.0, 122˚ (ultrawide)",
+          "Features": "Face detection, HDR, panorama",
+          "Video": "1080p@25/30/60fps, gyro-EIS, HDR"
+        },
+        "Sound": {
+          "Loudspeaker": "Yes, with stereo speakers (4 speakers)",
+          "3.5mm jack": "No"
+        },
+        "Comms": {
+          "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band, hotspot",
+          "Bluetooth": "6.0, A2DP, LE, EDR",
+          "Positioning": "GPS, GLONASS, GALILEO, QZSS (Wi‑Fi + Cellular model only)",
+          "NFC": "No",
+          "Radio": "No",
+          "USB": "USB Type-C 4 (Thunderbolt 3), DisplayPort, magnetic connector"
+        },
+        "Features": {
+          "Sensors": "Face ID, accelerometer, gyro, compass, barometer"
+        },
+        "Battery": {
+          "Type": "Li-Po 10290 mAh",
+          "Charging": "50% in 30 min"
+        },
+        "Misc": {
+          "Colors": "Silver, Space Black",
+          "Models": "A3360, A3361, A3362, iPad17,3, iPad17,4",
+          "SAR": "1.19 W/kg (body)",
+          "SAR EU": "1.50 W/kg (body)",
+          "Price": "About 1450 EUR"
+        },
+        "EU LABEL": {
+          "Energy": "Class G",
+          "Battery": "76:00h endurance, 1000 cycles",
+          "Free fall": "Class E (40 falls)",
+          "Repairability": "Class C"
+        }
+      }
+    },
+    {
+      "name": "iPad Pro 11 (2025)",
+      "device_id": "14234",
+      "url": "https://www.gsmarena.com/apple_ipad_pro_11_5g_(2025)-14234.php",
+      "thumbnail": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-pro-11-2024.jpg",
+      "quick_spec": "Apple iPad Pro 11 5G (2025) tablet. Announced Oct 2025. Features 11.0″  display, Apple M5 chipset, 8160 mAh battery, 2048 GB storage, 16 GB RAM, Scratch-resistant glass.",
+      "highlights": {},
+      "specs": {
+        "Network": {
+          "Technology": "GSM / HSPA / LTE / 5G",
+          "2G bands": "GSM 850 / 900 / 1800 / 1900 - cellular model only",
+          "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - cellular model only",
+          "4G bands": "1, 2, 3, 4, 5, 7, 8, 11, 12, 13, 14, 17, 18, 19, 20, 21, 25, 26, 28, 29, 30, 32, 34, 38, 39, 40, 41, 42, 48, 66, 71 - A3358 - cellular model only",
+          "5G bands": "1, 2, 3, 5, 7, 8, 12, 14, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 66, 70, 71, 75, 77, 78, 79 SA/NSA/Sub6 - A3358, A3359 - cellular model only",
+          "Speed": "HSPA, LTE, 5G - cellular model only"
+        },
+        "Launch": {
+          "Announced": "2025, October 16",
+          "Status": "Available. Released 2025, October 22"
+        },
+        "Body": {
+          "Dimensions": "249.7 x 177.5 x 5.3 mm (9.83 x 6.99 x 0.21 in)",
+          "Weight": "444 g (Wi-Fi), 446 g (5G) (1.03 lb)",
+          "Build": "Glass front, aluminum back, aluminum frame",
+          "SIM": "eSIM\n- cellular model only"
+        },
+        "Display": {
+          "Type": "Ultra Retina Tandem OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (HBM), 1600 nits (peak)",
+          "Size": "11.0 inches, 364.8 cm\n2\n(~82.3% screen-to-body ratio)",
+          "Resolution": "1668 x 2420 pixels, 3:2 ratio (~267 ppi density)",
+          "Protection": "Scratch-resistant glass, oleophobic coating, Mohs level 4"
+        },
+        "Platform": {
+          "OS": "iPadOS 26, upgradable to iPadOS 26.4",
+          "Chipset": "Apple M5",
+          "CPU": "9-core (3 performance cores, 6 efficiency cores) - 256/512GB models\n10-core (4 performance cores, 6 efficiency cores) - 1/2TB models",
+          "GPU": "Apple GPU (10-core graphics)"
+        },
+        "Memory": {
+          "Card slot": "No",
+          "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 1TB 16GB RAM, 2TB 16GB RAM"
+        },
+        "Main Camera": {
+          "Single": "12 MP, f/1.8, (wide), dual pixel PDAF\nTOF 3D LiDAR scanner (depth)",
+          "Features": "Quad-LED dual-tone flash, HDR",
+          "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps; gyro-EIS, ProRes (4K, 1080p)"
+        },
+        "Selfie camera": {
+          "Single": "12 MP, f/2.0, 122˚ (ultrawide)",
+          "Features": "Face detection, HDR, panorama",
+          "Video": "1080p@25/30/60fps, gyro-EIS, HDR"
+        },
+        "Sound": {
+          "Loudspeaker": "Yes, with stereo speakers (4 speakers)",
+          "3.5mm jack": "No"
+        },
+        "Comms": {
+          "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band, hotspot",
+          "Bluetooth": "6.0, A2DP, LE, EDR",
+          "Positioning": "GPS, GLONASS, GALILEO, QZSS (Wi‑Fi + Cellular model only)",
+          "NFC": "No",
+          "Radio": "No",
+          "USB": "USB Type-C 4 (Thunderbolt 3), DisplayPort, magnetic connector"
+        },
+        "Features": {
+          "Sensors": "Face ID, accelerometer, gyro, compass, barometer"
+        },
+        "Battery": {
+          "Type": "Li-Po 8160 mAh",
+          "Charging": "50% in 30 min"
+        },
+        "Misc": {
+          "Colors": "Silver, Space Black",
+          "Models": "A3357, A3358, A3359, iPad17,1, iPad17,2",
+          "SAR": "1.19 W/kg (body)",
+          "SAR EU": "1.50 W/kg (body)",
+          "Price": "About 1100 EUR"
+        },
+        "EU LABEL": {
+          "Energy": "Class G",
+          "Battery": "71:00h endurance, 1000 cycles",
+          "Free fall": "Class E (47 falls)",
+          "Repairability": "Class C"
+        }
+      }
+    },
+    {
+      "name": "iPhone 17 Pro Max",
+      "device_id": "13964",
+      "url": "https://www.gsmarena.com/apple_iphone_17_pro_max-13964.php",
+      "thumbnail": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-17-pro-max.jpg",
+      "quick_spec": "Apple iPhone 17 Pro Max smartphone. Announced Sep 2025. Features 6.9″  display, Apple A19 Pro chipset, 4823 mAh battery, 2048 GB storage, 12 GB RAM, Ceramic Shield 2.",
+      "highlights": {},
+      "specs": {
+        "Network": {
+          "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+          "2G bands": "GSM 850 / 900 / 1800 / 1900",
+          "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+          "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 32, 34, 38, 39, 40, 41, 42, 48, 53, 66 - A3526",
+          "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 30, 38, 40, 41, 48, 53, 66, 70, 75, 77, 78, 79 SA/NSA/Sub6 - A3526",
+          "Speed": "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps"
+        },
+        "Launch": {
+          "Announced": "2025, September 09",
+          "Status": "Available. Released 2025, September 19"
+        },
+        "Body": {
+          "Dimensions": "163.4 x 78 x 8.8 mm (6.43 x 3.07 x 0.35 in)",
+          "Weight": "233 g (8.22 oz)",
+          "Build": "Glass front (Ceramic Shield 2), aluminum alloy frame, aluminum alloy back/ glass back (Ceramic Shield)",
+          "SIM": "· Nano-SIM +\neSIM\n+ eSIM (max 2 at a time; International)\n· eSIM + eSIM (8 or more, max 2 at a time; USA)\n· Nano-SIM + Nano-SIM (China)"
+        },
+        "Display": {
+          "Type": "LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 1600 nits (HBM), 3000 nits (peak)",
+          "Size": "6.9 inches, 115.6 cm\n2\n(~90.7% screen-to-body ratio)",
+          "Resolution": "1320 x 2868 pixels, 19.5:9 ratio (~460 ppi density)",
+          "Protection": "Ceramic Shield 2, Mohs level 5"
+        },
+        "Platform": {
+          "OS": "iOS 26, upgradable to iOS 26.4",
+          "Chipset": "Apple A19 Pro (3 nm)",
+          "CPU": "Hexa-core (2x4.26 GHz + 4x2.60 GHz)",
+          "GPU": "Apple GPU (6-core graphics)"
+        },
+        "Memory": {
+          "Card slot": "No",
+          "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 1TB 12GB RAM, 2TB 12GB RAM"
+        },
+        "Main Camera": {
+          "Triple": "48 MP, f/1.8, 24mm (wide), 1/1.28\", 1.22µm, dual pixel PDAF, sensor-shift OIS\n48 MP, f/2.8, 100mm (periscope telephoto), 1/2.55\", 0.7µm, PDAF, 3D sensor‑shift OIS, 4x optical zoom\n48 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55\", 0.7µm, PDAF\nTOF 3D LiDAR scanner (depth)",
+          "Features": "Dual-LED dual-tone flash, HDR (photo/panorama)",
+          "Video": "4K@24/25/30/60/100/120fps, 1080p@25/30/60/120/240fps, 10-bit HDR, Dolby Vision HDR (up to 120fps), ProRes, ProRes RAW (up to 120fps), Apple Log 2, 3D (spatial) video/audio, stereo sound rec."
+        },
+        "Selfie camera": {
+          "Single": "18 MP multi-aspect, f/1.9, 20mm (ultrawide), PDAF\nSL 3D, (depth/biometrics sensor)",
+          "Features": "HDR, Dolby Vision HDR, 3D (spatial) audio, stereo sound rec., ProRes RAW, Apple Log 2",
+          "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EIS"
+        },
+        "Sound": {
+          "Loudspeaker": "Yes, with stereo speakers",
+          "3.5mm jack": "No"
+        },
+        "Comms": {
+          "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, hotspot",
+          "Bluetooth": "6.0, A2DP, LE",
+          "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC",
+          "NFC": "Yes",
+          "Radio": "No",
+          "USB": "USB Type-C 3.2 Gen 2, DisplayPort"
+        },
+        "Features": {
+          "Sensors": "Face ID, accelerometer, gyro, proximity, compass, barometer"
+        },
+        "Battery": {
+          "Type": "Market-dependent versions:\n· Li-Ion 4823 mAh - Nano SIM model\n· Li-Ion 5088 mAh - eSIM only model",
+          "Charging": "Wired, PD3.2, AVS, 50% in 20 min\n25W wireless MagSafe/Qi2, 50% in 30 min (15W - China)\n4.5W reverse wired"
+        },
+        "Misc": {
+          "Colors": "Silver, Cosmic Orange, Deep Blue",
+          "Models": "iPhone18,2, A3526, A3257, A3527, A3525",
+          "SAR": "1.19 W/kg (head)     1.19 W/kg (body)",
+          "SAR EU": "1.49 W/kg (head)     1.49 W/kg (body)",
+          "Price": "$ 1,318.99 / C$ 1,688.75 / £ 1,038.99 / € 1,188.95 / ₹ 149,900"
+        },
+        "Our Tests": {
+          "Performance": "AnTuTu: 2600583 (v10), 2331417 (v11)\nGeekBench: 10118 (v6)\n3DMark: 6010 (Wild Life Extreme)",
+          "Display": "1000 nits max brightness (measured)",
+          "Loudspeaker": "-26.2 LUFS (Good)",
+          "Battery": "Active use score 17:58h"
+        },
+        "EU LABEL": {
+          "Energy": "Class A",
+          "Battery": "53:00h endurance, 1000 cycles",
+          "Free fall": "Class B (180 falls)",
+          "Repairability": "Class C"
+        }
+      }
+    },
+    {
+      "name": "iPhone 17 Pro",
+      "device_id": "14049",
+      "url": "https://www.gsmarena.com/apple_iphone_17_pro-14049.php",
+      "thumbnail": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-17-pro.jpg",
+      "quick_spec": "Apple iPhone 17 Pro smartphone. Announced Sep 2025. Features 6.3″  display, Apple A19 Pro chipset, 3998 mAh battery, 1024 GB storage, 12 GB RAM, Ceramic Shield 2.",
+      "highlights": {},
+      "specs": {
+        "Network": {
+          "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+          "2G bands": "GSM 850 / 900 / 1800 / 1900",
+          "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+          "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 32, 34, 38, 39, 40, 41, 42, 48, 53, 66 - A3523",
+          "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 30, 38, 40, 41, 48, 53, 66, 70, 75, 77, 78, 79 SA/NSA/Sub6 - A3523",
+          "Speed": "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps"
+        },
+        "Launch": {
+          "Announced": "2025, September 09",
+          "Status": "Available. Released 2025, September 19"
+        },
+        "Body": {
+          "Dimensions": "150 x 71.9 x 8.8 mm (5.91 x 2.83 x 0.35 in)",
+          "Weight": "206 g (7.27 oz)",
+          "Build": "Glass front (Ceramic Shield 2), aluminum alloy frame, aluminum alloy back/ glass back (Ceramic Shield)",
+          "SIM": "· Nano-SIM +\neSIM\n+ eSIM (max 2 at a time; International)\n· eSIM + eSIM (8 or more, max 2 at a time; USA)\n· Nano-SIM + Nano-SIM (China)"
+        },
+        "Display": {
+          "Type": "LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 1600 nits (HBM), 3000 nits (peak)",
+          "Size": "6.3 inches, 96.4 cm\n2\n(~89.4% screen-to-body ratio)",
+          "Resolution": "1206 x 2622 pixels, 19.5:9 ratio (~460 ppi density)",
+          "Protection": "Ceramic Shield 2, Mohs level 5"
+        },
+        "Platform": {
+          "OS": "iOS 26, upgradable to iOS 26.4",
+          "Chipset": "Apple A19 Pro (3 nm)",
+          "CPU": "Hexa-core (2x4.26 GHz + 4x2.60 GHz)",
+          "GPU": "Apple GPU (6-core graphics)"
+        },
+        "Memory": {
+          "Card slot": "No",
+          "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 1TB 12GB RAM"
+        },
+        "Main Camera": {
+          "Triple": "48 MP, f/1.8, 24mm (wide), 1/1.28\", 1.22µm, dual pixel PDAF, sensor-shift OIS\n48 MP, f/2.8, 100mm (periscope telephoto), 1/2.55\", 0.7µm, PDAF, 3D sensor‑shift OIS, 4x optical zoom\n48 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55\", 0.7µm, PDAF\nTOF 3D LiDAR scanner (depth)",
+          "Features": "Dual-LED dual-tone flash, HDR (photo/panorama)",
+          "Video": "4K@24/25/30/60/100/120fps, 1080p@25/30/60/120/240fps, 10-bit HDR, Dolby Vision HDR (up to 120fps), ProRes, ProRes RAW (up to 120fps), Apple Log 2, 3D (spatial) video/audio, stereo"
+        },
+        "Selfie camera": {
+          "Single": "18 MP multi-aspect, f/1.9, 20mm (ultrawide), PDAF\nSL 3D, (depth/biometrics sensor)",
+          "Features": "HDR, Dolby Vision HDR, 3D (spatial) audio, stereo sound rec., ProRes RAW, Apple Log 2",
+          "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EIS"
+        },
+        "Sound": {
+          "Loudspeaker": "Yes, with stereo speakers",
+          "3.5mm jack": "No"
+        },
+        "Comms": {
+          "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, hotspot",
+          "Bluetooth": "6.0, A2DP, LE",
+          "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC",
+          "NFC": "Yes",
+          "Radio": "No",
+          "USB": "USB Type-C 3.2 Gen 2, DisplayPort"
+        },
+        "Features": {
+          "Sensors": "Face ID, accelerometer, gyro, proximity, compass, barometer"
+        },
+        "Battery": {
+          "Type": "Market-dependent versions:\n· Li-Ion 3998 mAh - Nano SIM model\n· Li-Ion 4252 mAh - eSIM only model",
+          "Charging": "Wired, PD3.2, AVS, 50% in 20 min\n25W wireless MagSafe/Qi2, 50% in 30 min (15W - China)\n4.5W reverse wired"
+        },
+        "Misc": {
+          "Colors": "Silver, Cosmic Orange, Deep Blue",
+          "Models": "iPhone18,1, A3256, A3523, A3522, A3524",
+          "SAR": "1.19 W/kg (head)     1.19 W/kg (body)",
+          "SAR EU": "1.49 W/kg (head)     1.49 W/kg (body)",
+          "Price": "$ 999.99 / £ 986.73 / € 1,145.07 / ₹ 134,900"
+        },
+        "Our Tests": {
+          "Performance": "AnTuTu: 2430575 (v10), 2381751 (v11)\nGeekBench: 9923 (v6)\n3DMark: 5868 (Wild Life Extreme)",
+          "Display": "1012 nits max brightness (measured)",
+          "Loudspeaker": "-28.9 LUFS (Average)",
+          "Battery": "Active use score 15:23h"
+        },
+        "EU LABEL": {
+          "Energy": "Class A",
+          "Battery": "47:00h endurance, 1000 cycles",
+          "Free fall": "Class B (180 falls)",
+          "Repairability": "Class C"
+        }
+      }
+    },
+    {
+      "name": "iPhone Air",
+      "device_id": "13502",
+      "url": "https://www.gsmarena.com/apple_iphone_17_air-13502.php",
+      "thumbnail": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-air.jpg",
+      "quick_spec": "Apple iPhone 17 Air smartphone. Announced Sep 2025. Features 6.5″  display, Apple A19 Pro chipset, 3149 mAh battery, 1024 GB storage, 12 GB RAM, Ceramic Shield 2.",
+      "highlights": {},
+      "specs": {
+        "Network": {
+          "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+          "2G bands": "GSM 850 / 900 / 1800 / 1900",
+          "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+          "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 32, 34, 38, 39, 40, 41, 42, 48, 53, 66 - A3517",
+          "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 30, 38, 40, 41, 48, 53, 66, 70, 75, 77, 78, 79 SA/NSA/Sub6 - A3517",
+          "Speed": "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps"
+        },
+        "Launch": {
+          "Announced": "2025, September 09",
+          "Status": "Available. Released 2025, September 19"
+        },
+        "Body": {
+          "Dimensions": "156.2 x 74.7 x 5.6 mm (6.15 x 2.94 x 0.22 in)",
+          "Weight": "165 g (5.82 oz)",
+          "Build": "Glass front (Ceramic Shield 2), titanium frame (grade 5), glass back (Ceramic Shield)",
+          "SIM": "eSIM\n+ eSIM (8 or more, max 2 at a time)"
+        },
+        "Display": {
+          "Type": "LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 1600 nits (HBM), 3000 nits (peak)",
+          "Size": "6.5 inches, 104.9 cm\n2\n(~89.9% screen-to-body ratio)",
+          "Resolution": "1260 x 2736 pixels, 19.5:9 ratio (~460 ppi density)",
+          "Protection": "Ceramic Shield 2, Mohs level 5"
+        },
+        "Platform": {
+          "OS": "iOS 26, upgradable to iOS 26.4",
+          "Chipset": "Apple A19 Pro (3 nm)",
+          "CPU": "Hexa-core (2x4.26 GHz + 4x2.60 GHz)",
+          "GPU": "Apple GPU (5-core graphics)"
+        },
+        "Memory": {
+          "Card slot": "No",
+          "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 1TB 12GB RAM"
+        },
+        "Main Camera": {
+          "Single": "48 MP, f/1.6, 26mm (wide), 1/1.56\", 1.0µm, dual pixel PDAF, sensor-shift OIS",
+          "Features": "Dual-LED dual-tone flash, HDR (photo/panorama)",
+          "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+        },
+        "Selfie camera": {
+          "Single": "18 MP multi-aspect, f/1.9, 20mm (ultrawide), PDAF\nSL 3D, (depth/biometrics sensor)",
+          "Features": "HDR, Dolby Vision HDR, 3D (spatial) audio, stereo sound rec.",
+          "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EIS"
+        },
+        "Sound": {
+          "Loudspeaker": "Yes",
+          "3.5mm jack": "No"
+        },
+        "Comms": {
+          "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, hotspot",
+          "Bluetooth": "6.0, A2DP, LE",
+          "Positioning": "GPS, GALILEO, GLONASS, QZSS, BDS, NavIC",
+          "NFC": "Yes",
+          "Radio": "No",
+          "USB": "USB Type-C 2.0"
+        },
+        "Features": {
+          "Sensors": "Face ID, accelerometer, gyro, proximity, compass, barometer"
+        },
+        "Battery": {
+          "Type": "Li-Ion 3149 mAh",
+          "Charging": "Wired, PD2.0, 50% in 30 min\n20 wireless MagSafe/Qi2, 50% in 30 min (15W - China)\n4.5W reverse wired"
+        },
+        "Misc": {
+          "Colors": "Space Black, Cloud White, Light Gold, Sky Blue",
+          "Models": "iPhone18,4, A3517, A3260, A3518, A3516",
+          "SAR": "1.19 W/kg (head)     1.19 W/kg (body)",
+          "SAR EU": "1.49 W/kg (head)     1.49 W/kg (body)",
+          "Price": "$ 773.83 / C$ 1,189.99 / £ 649.00 / € 742.59 / ₹ 94,990"
+        },
+        "Our Tests": {
+          "Display": "998 nits max brightness (measured)",
+          "Loudspeaker": "-29.8 LUFS (Average)",
+          "Battery": "Active use score 12:44h"
+        },
+        "EU LABEL": {
+          "Energy": "Class A",
+          "Battery": "40:00h endurance, 1000 cycles",
+          "Free fall": "Class B (180 falls)",
+          "Repairability": "Class C"
+        }
+      }
+    },
+    {
+      "name": "iPhone 17",
+      "device_id": "14050",
+      "url": "https://www.gsmarena.com/apple_iphone_17-14050.php",
+      "thumbnail": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-17.jpg",
+      "quick_spec": "Apple iPhone 17 smartphone. Announced Sep 2025. Features 6.3″  display, Apple A19 chipset, 3692 mAh battery, 512 GB storage, 8 GB RAM, Ceramic Shield 2.",
+      "highlights": {},
+      "specs": {
+        "Network": {
+          "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+          "2G bands": "GSM 850 / 900 / 1800 / 1900",
+          "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+          "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 32, 34, 38, 39, 40, 41, 42, 48, 53, 66 - A3520",
+          "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 30, 38, 40, 41, 48, 53, 66, 70, 75, 77, 78, 79 SA/NSA/Sub6 - A3520",
+          "Speed": "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps"
+        },
+        "Launch": {
+          "Announced": "2025, September 09",
+          "Status": "Available. Released 2025, September 19"
+        },
+        "Body": {
+          "Dimensions": "149.6 x 71.5 x 8 mm (5.89 x 2.81 x 0.31 in)",
+          "Weight": "177 g (6.24 oz)",
+          "Build": "Glass front (Ceramic Shield 2), aluminum frame, glass back",
+          "SIM": "· Nano-SIM +\neSIM\n+ eSIM (max 2 at a time; International)\n· eSIM + eSIM (8 or more, max 2 at a time; USA)\n· Nano-SIM + Nano-SIM (China)"
+        },
+        "Display": {
+          "Type": "LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 1600 nits (HBM), 3000 nits (peak)",
+          "Size": "6.3 inches, 96.4 cm\n2\n(~90.1% screen-to-body ratio)",
+          "Resolution": "1206 x 2622 pixels, 19.5:9 ratio (~460 ppi density)",
+          "Protection": "Ceramic Shield 2, Mohs level 5"
+        },
+        "Platform": {
+          "OS": "iOS 26, upgradable to iOS 26.4",
+          "Chipset": "Apple A19 (3 nm)",
+          "CPU": "Hexa-core (2x4.26 GHz + 4x2.60 GHz)",
+          "GPU": "Apple GPU (5-core graphics)"
+        },
+        "Memory": {
+          "Card slot": "No",
+          "Internal": "256GB 8GB RAM, 512GB 8GB RAM"
+        },
+        "Main Camera": {
+          "Dual": "48 MP, f/1.6, 26mm (wide), 1/1.56\", 1.0µm, dual pixel PDAF, sensor-shift OIS\n48 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55\", 0.7µm, PDAF",
+          "Features": "Dual-LED dual-tone flash, HDR (photo/panorama)",
+          "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+        },
+        "Selfie camera": {
+          "Single": "18 MP multi-aspect, f/1.9, 20mm (ultrawide), PDAF\nSL 3D, (depth/biometrics sensor)",
+          "Features": "HDR, Dolby Vision HDR, 3D (spatial) audio, stereo sound rec.",
+          "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EIS"
+        },
+        "Sound": {
+          "Loudspeaker": "Yes, with stereo speakers",
+          "3.5mm jack": "No"
+        },
+        "Comms": {
+          "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, tri-band, hotspot",
+          "Bluetooth": "6.0, A2DP, LE",
+          "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC",
+          "NFC": "Yes",
+          "Radio": "No",
+          "USB": "USB Type-C 2.0, DisplayPort"
+        },
+        "Features": {
+          "Sensors": "Face ID, accelerometer, gyro, proximity, compass, barometer"
+        },
+        "Battery": {
+          "Type": "Li-Ion 3692 mAh",
+          "Charging": "Wired, PD3.2, AVS, 50% in 20 min\n25W wireless MagSafe/Qi2, 50% in 30 min (15W - China)\n4.5W reverse wired"
+        },
+        "Misc": {
+          "Colors": "Black, White, Mist Blue, Sage, Lavender",
+          "Models": "iPhone18,3, A3520, A3258, A3519, A3521",
+          "SAR": "1.19 W/kg (head)     1.19 W/kg (body)",
+          "SAR EU": "1.49 W/kg (head)     1.49 W/kg (body)",
+          "Price": "$ 769.94 / C$ 1,049.75 / £ 690.26 / € 762.00"
+        },
+        "Our Tests": {
+          "Performance": "AnTuTu: 2109773 (v10)\nGeekBench: 9360 (v6)\n3DMark: 4803 (Wild Life Extreme)",
+          "Display": "1012 nits max brightness (measured)",
+          "Loudspeaker": "-27.5 LUFS (Good)",
+          "Battery": "Active use score 14:59h"
+        },
+        "EU LABEL": {
+          "Energy": "Class A",
+          "Battery": "41:00h endurance, 1000 cycles",
+          "Free fall": "Class B (180 falls)",
+          "Repairability": "Class C"
+        }
+      }
+    },
+    {
+      "name": "Watch Ultra 3",
+      "device_id": "14130",
+      "url": "https://www.gsmarena.com/apple_watch_ultra_3-14130.php",
+      "thumbnail": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch-ultra3.jpg",
+      "quick_spec": "Apple Watch Ultra 3 watch. Announced Sep 2025. Features 1.98″  display, Apple S10 chipset, 599 mAh battery, 64 GB storage, MIL-STD-810H compliant, Sapphire crystal glass.",
+      "highlights": {},
+      "specs": {
+        "Network": {
+          "Technology": "GSM / HSPA / LTE / 5G",
+          "2G bands": "GSM 850 / 900 / 1800 / 1900",
+          "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - International, China, HK",
+          "4G bands": "1, 2, 3, 4, 5, 6, 7, 8, 18, 19, 20, 25, 26, 28, 39, 40, 41, 66 - International, China, HK",
+          "5G bands": "SA/NSA",
+          "Speed": "HSPA, LTE, 5G"
+        },
+        "Launch": {
+          "Announced": "2025, September 09",
+          "Status": "Available. Released 2025, September 19"
+        },
+        "Body": {
+          "Dimensions": "49 x 44 x 12 mm (1.93 x 1.73 x 0.47 in)",
+          "Weight": "61.6 g or 61.8 g (black) (2.15 oz)",
+          "Build": "Sapphire crystal front, ceramic/sapphire crystal back, titanium frame (grade 5)",
+          "SIM": "eSIM"
+        },
+        "Display": {
+          "Type": "Retina LTPO3 OLED, 3000 nits (peak)",
+          "Size": "1.98 inches",
+          "Resolution": "514 x 422 pixels (~326 ppi density)",
+          "Protection": "Sapphire crystal glass"
+        },
+        "Platform": {
+          "OS": "watchOS 26, upgradable to watchOS 26.4",
+          "Chipset": "Apple S10",
+          "CPU": "Dual-core",
+          "GPU": "PowerVR"
+        },
+        "Memory": {
+          "Card slot": "No",
+          "Internal": "64GB"
+        },
+        "Camera": {},
+        "Sound": {
+          "Loudspeaker": "Yes, with dual speakers (86-decibel)",
+          "3.5mm jack": "No"
+        },
+        "Comms": {
+          "WLAN": "Wi-Fi 802.11 b/g/n, dual-band",
+          "Bluetooth": "5.3, A2DP, LE",
+          "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS",
+          "NFC": "Yes",
+          "Radio": "No",
+          "USB": "No"
+        },
+        "Features": {
+          "Sensors": "Accelerometer, gyro, heart rate, barometer, always-on altimeter (-500m to 9000m), compass, SpO2, VO2max, temperature (body), temperature (water)"
+        },
+        "Battery": {
+          "Type": "Li-Ion 599 mAh",
+          "Charging": "Wireless, 0-80% in 45 min"
+        },
+        "Misc": {
+          "Colors": "Natural, Black",
+          "Models": "A3281, A3282",
+          "SAR": "1.16 W/kg (head)",
+          "SAR EU": "1.19 W/kg (head)",
+          "Price": "€ 795.00"
+        }
+      }
+    }
+  ]
+}
