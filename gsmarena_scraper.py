@@ -34,6 +34,7 @@ Requirements:
 import argparse
 import json
 import os
+import random
 import re
 import time
 import logging
@@ -42,6 +43,16 @@ from typing import Optional
 
 import requests
 from bs4 import BeautifulSoup
+
+# ---------------------------------------------------------------------------
+# Parser detection — use lxml if available, fall back to html.parser
+# ---------------------------------------------------------------------------
+
+try:
+    import lxml  # noqa: F401
+    HTML_PARSER = "lxml"
+except ImportError:
+    HTML_PARSER = "html.parser"
 
 # ---------------------------------------------------------------------------
 # Configuration
@@ -67,24 +78,56 @@ logging.basicConfig(
     datefmt="%H:%M:%S",
 )
 log = logging.getLogger(__name__)
+log.info("HTML parser: %s", HTML_PARSER)
 
 
 # ---------------------------------------------------------------------------
 # HTTP helpers
 # ---------------------------------------------------------------------------
 
-def get_page(url: str, session: requests.Session, delay: float = 2.0, retries: int = 3) -> Optional[BeautifulSoup]:
-    """Fetch a URL and return a BeautifulSoup object, with retry logic."""
+def get_page(url: str, session: requests.Session, delay: float = 2.0, retries: int = 5) -> Optional[BeautifulSoup]:
+    """
+    Fetch a URL and return a BeautifulSoup object.
+
+    - Applies a randomized delay (jitter ±50%) before every request to avoid
+      triggering rate-limit detection from fixed-interval patterns.
+    - Explicitly handles HTTP 429 (Too Many Requests): respects the
+      Retry-After response header if present, otherwise waits progressively
+      longer on each attempt (60s → 120s → 180s …).
+    - Falls back gracefully on other network errors with exponential backoff.
+    """
     for attempt in range(1, retries + 1):
+        # Jitter: randomize the delay by ±50% to break fixed-interval patterns.
+        # e.g. delay=8 → actual wait is anywhere between 4s and 12s.
+        jitter = delay * random.uniform(0.5, 1.5)
+        log.debug("Waiting %.1fs before request (attempt %d/%d)", jitter, attempt, retries)
+        time.sleep(jitter)
+
         try:
-            time.sleep(delay)
             resp = session.get(url, headers=HEADERS, timeout=20)
+
+            # Handle 429 explicitly before raise_for_status so we can read
+            # the Retry-After header and wait the correct amount of time.
+            if resp.status_code == 429:
+                retry_after = int(resp.headers.get("Retry-After", 60 * attempt))
+                log.warning(
+                    "429 Too Many Requests for %s — waiting %ds before retry (attempt %d/%d)",
+                    url, retry_after, attempt, retries,
+                )
+                time.sleep(retry_after)
+                continue
+
             resp.raise_for_status()
-            return BeautifulSoup(resp.text, "lxml")
+            return BeautifulSoup(resp.text, HTML_PARSER)
+
         except requests.RequestException as exc:
             wait = delay * (2 ** attempt)
-            log.warning("Attempt %d/%d failed for %s: %s — retrying in %.1fs", attempt, retries, url, exc, wait)
+            log.warning(
+                "Attempt %d/%d failed for %s: %s — retrying in %.1fs",
+                attempt, retries, url, exc, wait,
+            )
             time.sleep(wait)
+
     log.error("All retries exhausted for %s", url)
     return None
 

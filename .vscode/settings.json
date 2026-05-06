@@ -1,0 +1,19 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:venv",
+    "workbench.colorCustomizations": {
+        "titleBar.activeBackground": "#692993",
+        "titleBar.activeForeground": "#FFFFFF",
+        "titleBar.inactiveBackground": "#692993",
+        "titleBar.inactiveForeground": "#FFFFFF",
+        "titleBar.border": "#692993",
+        "activityBar.background": "#692993",
+        "activityBar.foreground": "#FFFFFF",
+        "statusBar.background": "#692993",
+        "statusBar.foreground": "#FFFFFF",
+        "statusBar.debuggingBackground": "#692993",
+        "statusBar.debuggingForeground": "#FFFFFF",
+        "tab.activeBorder": "#692993",
+        "iLoveWorkSpaceColors": true,
+        "iLoveWorkSpaceRandom": false
+    }
+}
